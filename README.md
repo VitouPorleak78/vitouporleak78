@@ -8,7 +8,7 @@
 ---
 ## 🛠️ Tech Stack & Tools
 
-<table width="1000%">
+<table width="100%">
   <tr>
     <td width="333.3%" valign="top">
       <h4>🎨 Frontend & Core UI</h4>

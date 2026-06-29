@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=500&lines=%F0%9F%9A%80+Frontend+Developer+%7C+UI+Engineer;Year+2+Software+Engineering+Student+%40+CADT;Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
 </p>
-
 I bridge the gap between design and development, crafting pixel-perfect, highly responsive, and interactive web experiences. Currently diving deep into modern web frameworks and performance optimization.
 
 ---

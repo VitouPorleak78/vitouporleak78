@@ -45,7 +45,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 🚀 Featured Engineering Projects
 

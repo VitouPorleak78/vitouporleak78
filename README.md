@@ -18,21 +18,16 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
 ## 🛠️ Tools & Deployment
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://vercel.com)
 
----
-### 🛠️ Tools & Deployment
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=black)](https://vercel.com)
----
+## 🚀 Featured Engineering Projects
 
-### 🚀 Featured Engineering Projects
-
-#### 🚗 Smart Vehicle Fleet Management System — (Current Active Project)
+### 🚗 Smart Vehicle Fleet Management System — (Current Active Project)
 An intelligent, data-driven fleet telemetry and logistics ecosystem designed to track vehicle diagnostics, optimize route efficiencies, and handle live telemetry reporting.
 
-#### 🇰🇭 Siem Reap Travel & Discovery Platform — (Last Term)
+### 🇰🇭 Siem Reap Travel & Discovery Platform — (Last Term)
 A visually stunning travel-booking and itinerary-discovery web platform inspired by platforms like Trip.com, tailored specifically for exploring Siem Reap. 
 - [📂 View Project Code](https://github.com/moonbird13/Y2-T2-Front_End_Final_Project)
 
-#### 🧧 Chinese New Year Interactive Experience (CNY)
+### 🧧 Chinese New Year Interactive Experience (CNY)
 A culturally responsive and visually engaging frontend interface celebrating lunar new year traditions.
 - [📂 View Project Code](https://github.com/VitouPorleak78/CNY)
 

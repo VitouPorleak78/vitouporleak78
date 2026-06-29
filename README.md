@@ -16,7 +16,7 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-* **Backend & Scripting Ecosystem:** Node.js, Java, Python, PHP
+* **Backend & Scripting Ecosystem:** Node.js, Java, Python, PHP(coming soon)
 
 ---
 

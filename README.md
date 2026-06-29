@@ -34,6 +34,12 @@ A visually stunning travel-booking and itinerary-discovery web platform inspired
 - **Stack:** ReactJS, Tailwind CSS, JavaScript (ES6)
 - [📂 View Project Code](https://github.com/moonbird13/Y2-T2-Front_End_Final_Project)
 
+#### 🧧 Chinese New Year Interactive Experience (CNY)
+A culturally responsive and visually engaging frontend interface celebrating the lunar new year traditions. 
+- **Design Focus:** Vibrant, responsive layouts, themed UI components, and micro-interactions designed to deliver an intuitive and festive user flow.
+- **Stack:** HTML5, CSS3, JavaScript / Frontend Ecosystem
+- [📂 View Project Code](https://github.com/VitouPorleak78/CNY)
+
 ---
 
 ### 📈 Current Tech Focus (2026)

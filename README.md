@@ -10,7 +10,7 @@
 
 <table width="100%">
   <tr>
-    <td width="333.3%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>🎨 Frontend & Core UI</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
       <br />
@@ -23,7 +23,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
       <br /><br />
     </td>
-    <td width="333.3%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>⚙️ Systems & Scripting</h4>
       <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" /></a>
       <br />
@@ -34,7 +34,7 @@
       <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
       <br /><br />
     </td>
-    <td width="333.3%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>🛠️ Tools & Deployment</h4>
       <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
       <br />

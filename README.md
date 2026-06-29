@@ -7,7 +7,7 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
+<table width="100%">
   <tr>
     <td width="33.3%" valign="top">
       <h4>🎨 Frontend & Core UI</h4>
@@ -46,20 +46,13 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
 
 #### 🚗 Smart Vehicle Fleet Management System — (Current Active Project)
 An intelligent, data-driven fleet telemetry and logistics ecosystem designed to track vehicle diagnostics, optimize route efficiencies, and handle live telemetry reporting.
-- **Architecture Focus:** Bridging complex data states with high-performance frontend utility layouts.
-- **Key Modules:** Live tracking analytics, driver log interfaces, and fleet asset management grids.
-- **Stack:** ReactJS, Tailwind CSS, JavaScript (ES6) + Backend Telemetry Routing
 
 #### 🇰🇭 Siem Reap Travel & Discovery Platform — (Last Term)
 A visually stunning travel-booking and itinerary-discovery web platform inspired by platforms like Trip.com, tailored specifically for exploring Siem Reap. 
-- **Design Philosophy:** Highly aesthetic typography, intuitive user flows for trip planning, and a seamless mobile-to-desktop responsive experience.
-- **Stack:** ReactJS, Tailwind CSS, JavaScript (ES6)
 - [📂 View Project Code](https://github.com/moonbird13/Y2-T2-Front_End_Final_Project)
 
 #### 🧧 Chinese New Year Interactive Experience (CNY)
 A culturally responsive and visually engaging frontend interface celebrating lunar new year traditions.
-- **Design Focus:** Vibrant, responsive layouts, themed UI components, and micro-interactions designed to deliver an intuitive and festive user flow.
-- **Stack:** HTML5, CSS3, JavaScript / Frontend Ecosystem
 - [📂 View Project Code](https://github.com/VitouPorleak78/CNY)
 
 ---

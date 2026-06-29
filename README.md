@@ -1,5 +1,8 @@
-# Hi there, I'm Vitou Porleak 👋 
-### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=500&lines=Frontend+Developer+%7C+UI+Engineer;Year+2+Software+Engineering+Student+%40+CADT;Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
+# Hi there, I'm Vitou Porleak 👋
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=500&lines=%F0%9F%9A%80+Frontend+Developer+%7C+UI+Engineer;Year+2+Software+Engineering+Student+%40+CADT;Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
+</p>
 
 I bridge the gap between design and development, crafting pixel-perfect, highly responsive, and interactive web experiences. Currently diving deep into modern web frameworks and performance optimization.
 
@@ -19,7 +22,7 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
       <br />
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></a>
       <br /><br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <font color="transparent">_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_</font>
     </td>
     <td width="33%" valign="top">
       <h4>⚙️ Systems & Scripting</h4>
@@ -29,7 +32,7 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
       <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></a>
       <br /><br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <font color="transparent">_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_</font>
     </td>
     <td width="33%" valign="top">
       <h4>🛠️ Tools & Deployment</h4>
@@ -39,7 +42,7 @@ I bridge the gap between design and development, crafting pixel-perfect, highly 
       <br />
       <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=black" alt="Vercel" /></a>
       <br /><br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <font color="transparent">_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_&nbsp;_</font>
     </td>
   </tr>
 </table>

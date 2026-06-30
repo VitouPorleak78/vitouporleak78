@@ -1,11 +1,11 @@
-# Hi there, I'm Vitou Porleak 👋
+# 大家好，是我 Vitou 👋
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=650&lines=%F0%9F%9A%80+Frontend+Developer+%7C+UI+Engineer;%F0%9F%8E%93+Year+2+Software+Engineering+Student+%40+CADT;%E2%9C%A8+Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
   <p style="margin-top: 5px;">I bridge the gap between design and development, crafting pixel-perfect, highly responsive, and interactive web experiences. Currently diving deep into modern web frameworks and performance optimization.</p>
 </div>
 
-> “设计不仅仅是外观和感觉，设计是它如何运作的。” — *Steve Jobs*
+> "Innovation distinguishes between a leader and a follower." — *Steve Jobs*
 
 ---
 ## 🛠️ Tech Stack & Tools

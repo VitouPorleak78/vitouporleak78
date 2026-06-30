@@ -1,9 +1,11 @@
 # Hi there, I'm Vitou Porleak 👋
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=500&lines=%F0%9F%9A%80+Frontend+Developer+%7C+UI+Engineer;%F0%9F%8E%93+Year+2+Software+Engineering+Student+%40+CADT;%E2%9C%A8+Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&width=650&lines=%F0%9F%9A%80+Frontend+Developer+%7C+UI+Engineer;%F0%9F%8E%93+Year+2+Software+Engineering+Student+%40+CADT;%E2%9C%A8+Bridging+the+gap+between+design+%26+code" alt="Typing SVG" />
   <p style="margin-top: 5px;">I bridge the gap between design and development, crafting pixel-perfect, highly responsive, and interactive web experiences. Currently diving deep into modern web frameworks and performance optimization.</p>
 </div>
+
+> “设计不仅仅是外观和感觉，设计是它如何运作的。” — *Steve Jobs*
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -21,7 +23,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
       <br />
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-      <br /><br />
+      <br /><br />      
     </td>
     <td width="33.3%" valign="top">
       <h4>⚙️ Systems & Scripting</h4>
@@ -48,20 +50,20 @@
 
 ## 🚀 Featured Engineering Projects
 
-### 🚗 Smart Vehicle Fleet Management System — (Current Active Project)
+## 🚗 Smart Vehicle Fleet Management System — (Current Active Project)
 An intelligent, data-driven fleet telemetry and logistics ecosystem designed to track vehicle diagnostics, optimize route efficiencies, and handle live telemetry reporting.
 
-### 🇰🇭 Siem Reap Travel & Discovery Platform — (Last Term)
+## 🇰🇭 Siem Reap Travel & Discovery Platform — (Last Term)
 A visually stunning travel-booking and itinerary-discovery web platform inspired by platforms like Trip.com, tailored specifically for exploring Siem Reap. 
 - [📂 View Project Code](https://github.com/moonbird13/Y2-T2-Front_End_Final_Project)
 
-### 🧧 Chinese New Year Interactive Experience (CNY)
+## 🧧 Chinese New Year Interactive Experience (CNY)
 A culturally responsive and visually engaging frontend interface celebrating lunar new year traditions.
 - [📂 View Project Code](https://github.com/VitouPorleak78/CNY)
 
 ---
 
-### 📈 Current Tech Focus (2026)
+## 📈 Current Tech Focus (2026)
 * ⚡ Perfecting dashboard component performance and minimizing unnecessary re-renders when handling live vehicle telemetry.
 * 🎨 Styling complex, data-dense grids beautifully using utility-first responsive Tailwind design frameworks.
 
